@@ -1,3 +1,4 @@
+-- Active: 1711310929190@@127.0.0.1@3306@servico
 -- Criação da tabela 'produtos'
 CREATE TABLE produtos (
     id INT AUTO_INCREMENT PRIMARY KEY,
